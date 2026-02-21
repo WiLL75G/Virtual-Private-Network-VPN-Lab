@@ -176,8 +176,6 @@ It provides hands-on experience in **network privacy, secure remote connectivity
 
 ---
 
-## 👤 Author
-
-**Gokah William**  
+ 
 IT & Networking Professional  
 Focused on VPNs, Cloud Infrastructure, and Network Privacy
